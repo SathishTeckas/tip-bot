@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "aurora-tip-bot",
+  "private_key_id": "1a735bcad73cfa19d296c081149bc8c43c3eddc3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDOZMMBKcAJKliZ\nuI0NP2PRjAGuiuc5wCombcENIiCg1/b++H0XXNSRl2qVriKD6gW5DpiqbiquQGGk\nbB99fFwKKF5Jg6D8wwcRo6pZcrV/0EjHCPgaaWapmrpLlXysZdIG0bn3AZg0jpos\nT18375MzbSh6JrUe9QIhuQXTDPjBEJBwOsgTiNB8O0xQrvo756zPNEF+WDzCU+vg\ndAukWq1kEyfBqwSfTFvOgg4CkYLEp0FB+J6QPljwYIfajF9fRRaM16SUB7D+tX69\nns4CQPErBYcyXof3ZEg9+ZkJjX1IWmF0Lrz2oHAKzOjPF7Z30JPD5mELYJpyVVTX\nOng2kZxZAgMBAAECggEAAMmTC00DSnaAtfpD30jhz2xLV8TxUE71MBqAgrPQ+IY5\njxYlciGbxQ16HrMRSwLA5JKb636Ik08i4sD9RGXKWXhO2eJeYjRFAmXFXq6s2Za+\ni7QOMCcvruV9Z6s0aLDpzlgQiojVNQFIDyLZOc5Talx4A0z43zz3yjFov8eCIGN6\nldtK/cMhSPDwRSa1gwJA1+k1D/3vqIwDkoKpKJbcFL0bsE1oHDO7yPz2fljvGcBh\nwJl0hEU6w70K2OqbbzzWqNeIyn3PCp/PXkouG3PPC8zOwM5FZDvDjOfmdYOc57UO\nslvSjarY5E9I4Vpp/896L8+O8ckJw9vp+6TF8NhnTwKBgQDyXT07BWjwx1QZ2idh\ny2viIWRrUSKFK45oppVcedPSi1/zHusN7pdjh8nuJ1HMx4KXj00k43g0oEHl+QlI\ngrY7+u3cKMnuEpix8F/0ojKENYYVgTile6HemwMxJ6xY1MIWN6a6M5zUS04cefU+\nPOylyCuNTfcw/WhXALeNig4aewKBgQDaAXB9jznvUMOTXxUTdeym6sMsRqWZPWG5\nAmUZZRXkA8CXLsOHbsWieTOvEoFmqa/hoIMnuJ62i/j091Rwcwh6mO+TGKKN2zVo\ncF877/jmBGLh4XYxZju5AMewBQybFXZOsMAXcEnRsSRJGzLsE8OSdEVpMxipVvf8\nKYjdpWXmOwKBgF94ix4sy2HNoztrzAeh8iVpsfz0QPzkY3yl4kBDXUWa0XkbvMwI\nKGp0mv7NTlO0Y6UANgtJ75gLaOoGZ7nAg7is5/XJu4GkobG2VpYvLmcWDnN6K65E\nPUdLGL7MOf/kD3BhC7RdkHGwGFzvTcPui+niKAXJqI4LxIZBKgz/TP7xAoGBAKeK\nP6dfMUkIKqXRhuMD17GX7hLS4GVaVQXYH1Za523qrFIDsGUe7mgk+WFsuWHquq6N\nqv4V1nO4MsYgZhZdcYC2lDfZ0ONwOiVfZvErRX+Qk2XA3hKs3O0a+lv+JWfyII/t\nKlNZCoJKvvYoHwRrU/vzu3xTtno9yitSyEp+2EcNAoGAQZWsPCt5sX162W9DxFQF\n70gQu7SPIJS9H5Ap4jmnrzTa6CMnQTUry0FcnlVlNCRxD8nS1mRYmkvWXsfU+Ovw\nKdAxdSTsRheH+nSZ1ZVnFp4OltsLCCtca3EdBzRqUu6q21ZYwTmY4vtus9pSRRxu\n3Ej7YmqLmbssaDMTKsG3MIQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-di12c@aurora-tip-bot.iam.gserviceaccount.com",
+  "client_id": "106568510665268732010",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-di12c%40aurora-tip-bot.iam.gserviceaccount.com"
+}

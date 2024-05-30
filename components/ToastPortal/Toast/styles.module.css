@@ -1,0 +1,60 @@
+.toast {
+  width: 350px;
+  display: flex;
+  min-height: 15px;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+
+  opacity: 1;
+  padding: 10px;
+  color: black;
+  font-weight: 500;
+  cursor: pointer;
+  border-radius: 5px;
+  box-sizing: border-box;
+  transition: 0.2s;
+  animation: fadeIn 0.75s;
+}
+.toast:hover {
+  transition: 0.2s;
+  transform: scale(0.95);
+  box-shadow: 0px 0px 3px gray;
+}
+.success {
+  background-color: #25ae87;
+  border: 1.5px solid #25ae8779;
+  -webkit-box-shadow: 0px 0px 14px -4px #25ae87;
+  -moz-box-shadow: 0px 0px 14px -4px #25ae87;
+  box-shadow: 0px 0px 14px -4px #25ae87;
+}
+.warning {
+  background-color: #efce4a88;
+  border: 1.5px solid #efce4a88;
+  -webkit-box-shadow: 0px 0px 14px -4px #efce4a88;
+  -moz-box-shadow: 0px 0px 14px -4px #efce4a88;
+  box-shadow: 0px 0px 14px -4px #efce4a88;
+}
+.error {
+  background-color: #d75a4a80;
+  border: 1.5px solid #d75a4a;
+  -webkit-box-shadow: 0px 0px 14px -4px #d75a4a;
+  -moz-box-shadow: 0px 0px 14px -4px #d75a4a;
+  box-shadow: 0px 0px 14px -4px #d75a4a;
+}
+.info {
+  background-color: #2195f37e;
+  border: 1.5px solid #2195f37e;
+  -webkit-box-shadow: 0px 0px 14px -4px #2195f37e;
+  -moz-box-shadow: 0px 0px 14px -4px #2195f37e;
+  box-shadow: 0px 0px 14px -4px #2195f37e;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

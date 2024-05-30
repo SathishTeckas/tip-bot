@@ -1,0 +1,9 @@
+.introCard {
+  background: linear-gradient(269.64deg, #235f66 4.52%, #04825b 99.57%);
+  box-shadow: 0px 20px 30px rgba(29, 32, 43, 0.25);
+  border-radius: 10px;
+  margin-top: 30px;
+  padding: 10px;
+  align-items: center;
+  justify-content: space-evenly;
+}

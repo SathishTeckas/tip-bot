@@ -1,0 +1,30 @@
+.gradientLable {
+  padding: 5px 35px;
+  border-radius: 10px;
+  background: linear-gradient(260.86deg, #5ed049 -8.18%, #2c8f6a 89.71%);
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.15);
+}
+
+.connectWalletButton {
+  background: linear-gradient(263.19deg, #63da27 -37.73%, #16717d 105.36%);
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.25);
+  color: #ebefec;
+  padding: 10px 40px;
+  border-radius: 10px;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .connectWalletButton {
+    padding: 10px 6px;
+    font-size: 13px;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  .connectWalletButton {
+    padding: 10px 40px;
+    border-radius: 10px;
+  }
+}
