@@ -4,7 +4,7 @@ import { withRouter } from "next/router";
 
 class ErrorBoundary extends React.Component {
   constructor(props) {
-    super(props);
+    super(props); 
 
     // Define a state variable to track whether is an error or not
     this.state = { hasError: false };
