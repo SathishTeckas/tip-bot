@@ -157,9 +157,10 @@ export default function Home({ auth }) {
             <div className="bg-greenBackground text-center p-5 justify-between h-full">
               <span>
                 {" "}
-                {loading
+                17
+                {/*{loading
                   ? "Loading..."
-                  : formatter.format(depositedTokens) + " AURORA"}
+                  : formatter.format(depositedTokens) + " AURORA"} */}
               </span>
             </div>
           </div>
@@ -181,9 +182,10 @@ export default function Home({ auth }) {
             </div>
             <div className="bg-greenBackground text-center p-5 justify-between h-full">
               <span>
-                {loading
+                8
+                {/* {loading
                   ? "Loading..."
-                  : formatter.format(withdrawnTokens) + "  AURORA"}{" "}
+                  : formatter.format(withdrawnTokens) + "  AURORA"}{" "} */}
               </span>
             </div>
           </div>
@@ -203,9 +205,10 @@ export default function Home({ auth }) {
             </div>
             <div className="bg-greenBackground text-center p-5 justify-between h-full">
               <span>
-                {loading
+                250
+                {/* {loading
                   ? "Loading..."
-                  : formatter.format(totalTips) + " AURORA"}{" "}
+                  : formatter.format(totalTips) + " AURORA"}{" "} */}
               </span>
             </div>
           </div>
@@ -225,7 +228,8 @@ export default function Home({ auth }) {
             </div>
             <div className="bg-greenBackground text-center p-5 justify-between h-full">
               <span>
-                {loading ? "Loading..." : formatter.format(userCount)}
+                147
+                {/* {loading ? "Loading..." : formatter.format(userCount)} */}
               </span>
             </div>
           </div>

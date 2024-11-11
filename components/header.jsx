@@ -98,7 +98,7 @@ const Header = () => {
       dispatch(setOwner(ownerAddress.data));
     } catch (err) {
       console.log(err);
-      alert("Transaction Failed");
+      // alert("Transaction Failed");
     }
   };
 

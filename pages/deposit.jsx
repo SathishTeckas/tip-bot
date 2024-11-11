@@ -781,7 +781,8 @@ const Deposit = () => {
                   0,
                   walletAddress.length - (walletAddress.length - 7)
                 )}
-                ...
+                {/* ... */}
+                0x685jfhjftu4erwsej7675egfhu....
                 {walletAddress.slice(
                   walletAddress.length - 7,
                   walletAddress.length
@@ -791,7 +792,8 @@ const Deposit = () => {
             </div>
             <div className="bg-greenBackground flex p-5 justify-between h-full">
               <p>TipBot Balance:</p>
-              <p className="text-greenText md:text-2xl">{balance} AURORA</p>
+              {/* <p className="text-greenText md:text-2xl">{balance} AURORA</p> */}
+              <p className="text-greenText md:text-2xl">5492.73 AURORA</p>
               <div></div>
             </div>
           </div>
