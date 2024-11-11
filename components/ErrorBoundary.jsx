@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import { withRouter } from "next/router";
+import { withRouter } from "next/router"; 
 
 class ErrorBoundary extends React.Component {
   constructor(props) {
